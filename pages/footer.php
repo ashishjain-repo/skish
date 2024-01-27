@@ -21,7 +21,11 @@ class Footer{
                 }
                 ?>
                 </section>
-                <section class="footer-2"></section>
+                <hr>
+
+                <section class="footer-2">
+                    <iframe id="wedding-location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.4015637679663!2d-111.82227122426107!3d33.41277367340445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872ba7d05518c717%3A0x7d4718ad7510c9f7!2sMesa%20Arizona%20Temple!5e0!3m2!1sen!2sus!4v1706396272621!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </section>
             </nav>
         </footer>
         <?php

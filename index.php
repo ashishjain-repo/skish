@@ -14,7 +14,7 @@ $footer = new Footer();
 </head>
 <body>
     <?php $header->render();?>
-<main></main>
+<main style="height: 120vh"></main>
 <?php $footer->render();?>
 </body>
 </html>
