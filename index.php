@@ -12,5 +12,6 @@ $header = new Header();
 </head>
 <body>
     <?php $header->render();?>
+    <main>This is the new </main>
 </body>
 </html>
