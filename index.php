@@ -1,6 +1,8 @@
 <?php 
 include_once './pages/header.php';
+include_once './pages/footer.php';
 $header = new Header();
+$footer = new Footer();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,6 +14,7 @@ $header = new Header();
 </head>
 <body>
     <?php $header->render();?>
-    <main>This is the new </main>
+<main></main>
+<?php $footer->render();?>
 </body>
 </html>
