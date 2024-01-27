@@ -7,10 +7,14 @@ $header = new Header();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ashish & Skya | Jewellery</title>
     <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
     <?php $header->render();?>
+    <main>
+        <h1>This is Jewellery Page</h1>
+    </main>
+
 </body>
 </html>
